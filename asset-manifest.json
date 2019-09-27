@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shoppingcart-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/shoppingcart-app/static/js/main.11946968.chunk.js",
+    "main.js.map": "/shoppingcart-app/static/js/main.11946968.chunk.js.map",
+    "runtime-main.js": "/shoppingcart-app/static/js/runtime-main.4f42cfb3.js",
+    "runtime-main.js.map": "/shoppingcart-app/static/js/runtime-main.4f42cfb3.js.map",
+    "static/js/2.f7bfa775.chunk.js": "/shoppingcart-app/static/js/2.f7bfa775.chunk.js",
+    "static/js/2.f7bfa775.chunk.js.map": "/shoppingcart-app/static/js/2.f7bfa775.chunk.js.map",
+    "index.html": "/shoppingcart-app/index.html",
+    "precache-manifest.0e7c5b44d6131f705e68c9fd2fc3851a.js": "/shoppingcart-app/precache-manifest.0e7c5b44d6131f705e68c9fd2fc3851a.js",
+    "service-worker.js": "/shoppingcart-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/shoppingcart-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/shoppingcart-app/static/media/logo.25bf045c.svg"
+  }
+}
